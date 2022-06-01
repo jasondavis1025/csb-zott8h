@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jasondavis1025.github.io/csb-zott8h/static/css/main.c26389df.chunk.css",
+    "main.js": "https://jasondavis1025.github.io/csb-zott8h/static/js/main.bb0dd099.chunk.js",
+    "main.js.map": "https://jasondavis1025.github.io/csb-zott8h/static/js/main.bb0dd099.chunk.js.map",
+    "runtime-main.js": "https://jasondavis1025.github.io/csb-zott8h/static/js/runtime-main.8a9869ee.js",
+    "runtime-main.js.map": "https://jasondavis1025.github.io/csb-zott8h/static/js/runtime-main.8a9869ee.js.map",
+    "static/js/2.d0ab352a.chunk.js": "https://jasondavis1025.github.io/csb-zott8h/static/js/2.d0ab352a.chunk.js",
+    "static/js/2.d0ab352a.chunk.js.map": "https://jasondavis1025.github.io/csb-zott8h/static/js/2.d0ab352a.chunk.js.map",
+    "index.html": "https://jasondavis1025.github.io/csb-zott8h/index.html",
+    "static/css/main.c26389df.chunk.css.map": "https://jasondavis1025.github.io/csb-zott8h/static/css/main.c26389df.chunk.css.map",
+    "static/js/2.d0ab352a.chunk.js.LICENSE.txt": "https://jasondavis1025.github.io/csb-zott8h/static/js/2.d0ab352a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a9869ee.js",
+    "static/js/2.d0ab352a.chunk.js",
+    "static/css/main.c26389df.chunk.css",
+    "static/js/main.bb0dd099.chunk.js"
+  ]
+}
